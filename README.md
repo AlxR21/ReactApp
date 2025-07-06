@@ -1,2 +1,8 @@
-# ReactApp
-This project is a modern React-based web application powered by GSAP (GreenSock Animation Platform) for rich, smooth animations and interactive UI effects. It showcases how GSAP can be integrated into a React environment to build dynamic, engaging user experiences.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
