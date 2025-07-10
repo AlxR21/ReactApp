@@ -7,6 +7,8 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+public/
+node_modules/
 #All the assets have been ignored too
 /public/vite.svg
 /public/audio
